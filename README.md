@@ -1,3 +1,3 @@
-# My Project
+# Philip Zhang CV 2024
 
-This is my project. You can [view the documentation](philipzhang_cv.pdf) for more details.
+You can view the [pdf here](philipzhang_cv2024.pdf).
